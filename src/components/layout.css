@@ -19,6 +19,9 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
+body a{
+  color:blue !important;
+}
 article,
 aside,
 details,
